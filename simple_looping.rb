@@ -16,7 +16,7 @@ end
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  
+  number_of_times.times
 end
 
 def while_iterator(number_of_times)
